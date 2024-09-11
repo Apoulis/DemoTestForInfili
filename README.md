@@ -2,7 +2,7 @@
 
 ## How to run this project
 ### Task 1
-Download the files 
+Download the files Scraper and demo-api.
 ### Task 2
 Open the MySql Command Line Client and enter your password. Then use this command (CREATE DATABASE temperature_db;) to create a database named temperature.
 
